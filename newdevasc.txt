@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+=======
+nice cool
+>>>>>>> test
+understand a little bit
+text from feature branch
